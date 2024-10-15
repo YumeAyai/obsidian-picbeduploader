@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "auto-image-uploader",
+	"name": "PicBedUploader",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Automatically uploads images to your preferred image hosting service when added to your notes.",
+	"author": "YumeAyai",
+	"fundingUrl": "https://www.buymeacoffee.com/yumeayai",
 	"isDesktopOnly": false
-}
+  }
+  
